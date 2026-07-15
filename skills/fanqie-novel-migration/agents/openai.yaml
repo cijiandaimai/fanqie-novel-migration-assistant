@@ -1,0 +1,4 @@
+interface:
+  display_name: "番茄小说搬家助手"
+  short_description: "批量上传草稿，并按顺序导出网站小说为 Markdown"
+  default_prompt: "把本地小说上传到当前番茄作品，或把网站作品按章节顺序导出为 Markdown。"
