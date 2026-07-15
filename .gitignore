@@ -1,0 +1,7 @@
+node_modules/
+.fanqie-upload-state/
+*.upload-manifest.json
+exports/
+*.tmp
+.DS_Store
+Thumbs.db
