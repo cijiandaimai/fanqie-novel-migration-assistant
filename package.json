@@ -1,0 +1,15 @@
+{
+  "name": "fanqie-novel-migration-assistant",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "番茄小说搬家助手：在 Codex 内置浏览器中批量上传草稿，并按顺序导出网站小说为 Markdown",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "prepare": "node bin/prepare-upload.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT"
+}
