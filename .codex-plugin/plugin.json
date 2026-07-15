@@ -1,0 +1,18 @@
+{
+  "name": "fanqie-novel-migration-assistant",
+  "version": "1.0.0",
+  "description": "番茄小说草稿批量上传与 Markdown 顺序导出插件",
+  "author": {
+    "name": "BaizeAI"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "番茄小说搬家助手",
+    "shortDescription": "批量上传草稿，或按顺序导出网站小说为 Markdown。",
+    "longDescription": "连接已登录的 Codex 内置浏览器，在番茄作家后台完成小说双向迁移、章节合并、断点续传、字数复核和 Markdown 备份。",
+    "developerName": "BaizeAI",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "使用番茄小说搬家助手上传本地小说，或把当前番茄作品按顺序导出为 Markdown。"
+  }
+}
